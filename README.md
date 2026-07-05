@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sujata%20Bhadke&fontSize=50&fontAlignY=35&desc=ML%20Engineer%20in%20Making%20%7C%20IEEE%20Published%20Researcher&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sujata%20Bhadke&fontSize=50&fontAlignY=35&desc=ML%20Engineer%20in%20Making%20%7C%20IEEE%20Accepted%20Researcher&descAlignY=55&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student+%40+VIIT+Pune;ML+Engineer+in+Making;IEEE+Accepted+Researcher+%E2%80%94+Presenting+July+31st;Building+AI+that+solves+real+problems;Open+to+Internships+%F0%9F%9A%80) />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student+%40+VIIT+Pune;ML+Engineer+in+Making;IEEE+Accepted+Researcher+%E2%80%94+Presenting+July+31st;Building+AI+that+solves+real+problems;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -44,6 +44,7 @@
 | 🔍 [AI Lost & Found System](https://github.com/B-Sujata/DBMS_Project-AI-LostAndFound_ManagementSystem-) | Multimodal AI matching using FAISS vector search + NLP embeddings | Flask · FAISS · TensorFlow · PostgreSQL |
 | 🧙‍♀️ [Harry Potter RPG](https://github.com/B-Sujata/Python-Project-Harry-Potter-RPG) | Interactive text adventure RPG built in Python from scratch | Python · OOP |
 | 📊 [ML Journey DSA](https://github.com/B-Sujata/Ml-jouney) | Daily DSA practice with approaches and complexity analysis | Python · Algorithms |
+
 ---
 
 ## 💻 Tech Stack
