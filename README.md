@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student+%40+VIIT+Pune;ML+Engineer+in+Making;IEEE+Published+Researcher;Building+AI+that+solves+real+problems;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student+%40+VIIT+Pune;ML+Engineer+in+Making;IEEE+Accepted+Researcher+%E2%80%94+Presenting+July+31st;Building+AI+that+solves+real+problems;Open+to+Internships+%F0%9F%9A%80) />
 </div>
 
 ---
@@ -13,7 +13,7 @@
 > *"A curious IT student who enjoys turning ideas into projects and learning something new every day. I'm just as excited about a perfectly working piece of code as I am about discovering a great mystery movie."*
 
 - 🎓 B.Tech Information Technology @ **VIIT Pune** (CGPA: 8.64)
-- 🔬 **IEEE Published Researcher** — IIITCON 2026 (*The Inverted Latency Paradigm*)
+- 🔬 **IEEE Accepted Researcher** — IIITCON 2026 (*Presenting July 31st, 2026*)
 - 🤖 Currently on a **6-month ML Engineer journey** — building every day
 - 🏆 Ranked **2nd in HSC Board Examinations** (Science Stream)
 - 🌱 Currently learning: **PyTorch · Deep Learning · DSA · FastAPI**
@@ -39,11 +39,11 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| 🧠 [Student Burnout Prediction](https://github.com/B-Sujata/burnout-prediction-mlops) | End-to-end MLOps pipeline — R²=0.996, LangChain LLM advisor, Docker, CI/CD, 56 pytest tests | scikit-learn · MLflow · DVC · Docker · LangChain |
 | 🔬 [ISL Sign Language Research](https://github.com/B-Sujata/ISL-Sign-Language-Translation-Research) | IEEE Accepted — Discovered the Inverted Latency Paradigm in real-time ISL recognition | TensorFlow · MediaPipe · Transformers |
 | 🔍 [AI Lost & Found System](https://github.com/B-Sujata/DBMS_Project-AI-LostAndFound_ManagementSystem-) | Multimodal AI matching using FAISS vector search + NLP embeddings | Flask · FAISS · TensorFlow · PostgreSQL |
-| 🧙‍♀️ [Harry Potter RPG](https://github.com/B-Sujata/Python-Project-Harry-Potter-RPG) | Interactive text adventure game built in Python | Python · OOP |
-| 📊 [ML Journey DSA](https://github.com/B-Sujata/Ml-jouney) | Daily DSA practice — documented with approaches and complexity analysis | Python · Algorithms |
-
+| 🧙‍♀️ [Harry Potter RPG](https://github.com/B-Sujata/Python-Project-Harry-Potter-RPG) | Interactive text adventure RPG built in Python from scratch | Python · OOP |
+| 📊 [ML Journey DSA](https://github.com/B-Sujata/Ml-jouney) | Daily DSA practice with approaches and complexity analysis | Python · Algorithms |
 ---
 
 ## 💻 Tech Stack
