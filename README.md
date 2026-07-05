@@ -104,8 +104,6 @@
 
 ---
 
----
-
 <div align="center">
 
 ### 🚀 Open to ML/AI Internship Opportunities!
